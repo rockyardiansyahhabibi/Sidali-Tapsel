@@ -25,3 +25,11 @@ const QUICK_LINKS = [
   { text: "Whistleblowing/LAKIP (isi link)", href: "#" },
   { text: "Kontak Bagian Tata Pemerintahan", href: "#" }
 ];
+// Logo (Drive)
+const LOGO_PEMKAB_URL = "https://drive.google.com/uc?export=view&id=1SMBJAKKvfbXLdWPLgd9mlJwPA_tKnOe3";
+const LOGO_SIDALI_URL = "https://drive.google.com/uc?export=view&id=1SxmyRuRI_1GS3yt7AdOxoki5j7q78_q7";
+
+// Tabel Master
+const CAMAT   = { SHEET_ID: "1m3jITIs6dLgWQBrLwt-uKWHbGR8O88s1RNzmGQVwwJo", GID: "0" };
+const LURAH   = { SHEET_ID: "CHANGE_ME", GID: "0" };     // isi Sheet ID Lurah
+const KEPLING = { SHEET_ID: "CHANGE_ME", GID: "0" };     // isi Sheet ID Kepling
